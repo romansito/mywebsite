@@ -7,9 +7,9 @@ body {
 }
 
 #wrapper {
-  max-width: 940px;
+  max-width: 800px;
   margin: 120px auto;
-  padding: 0 5%;
+  padding: 0 10%;
 }
 
 a {
